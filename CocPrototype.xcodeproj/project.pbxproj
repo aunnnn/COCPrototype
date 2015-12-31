@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3032532D1C35A8F500551910 /* Screen Shot 2559-01-01 at 12.20.40 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 3032532C1C35A8F500551910 /* Screen Shot 2559-01-01 at 12.20.40 AM.png */; };
 		303E1490194965D800A09BBF /* COCAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 303E148F194965D800A09BBF /* COCAudioPlayer.m */; };
 		303E149A194990CF00A09BBF /* People1.png in Resources */ = {isa = PBXBuildFile; fileRef = 303E1498194990CF00A09BBF /* People1.png */; };
 		303E149B194990CF00A09BBF /* People2.png in Resources */ = {isa = PBXBuildFile; fileRef = 303E1499194990CF00A09BBF /* People2.png */; };
@@ -96,6 +97,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3032532C1C35A8F500551910 /* Screen Shot 2559-01-01 at 12.20.40 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2559-01-01 at 12.20.40 AM.png"; sourceTree = "<group>"; };
 		303E148E194965D800A09BBF /* COCAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COCAudioPlayer.h; sourceTree = "<group>"; };
 		303E148F194965D800A09BBF /* COCAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COCAudioPlayer.m; sourceTree = "<group>"; };
 		303E1498194990CF00A09BBF /* People1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = People1.png; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 		30C5176A194586360031B99D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3032532C1C35A8F500551910 /* Screen Shot 2559-01-01 at 12.20.40 AM.png */,
 				30D3CCF5194B85C800F8774D /* fireEffect.mp3 */,
 				30D3CCF3194B677300F8774D /* peopleScream.wav */,
 				30CDD2B6194A1D8800921D2B /* GameStageFlow.txt */,
@@ -450,6 +453,7 @@
 				30E1781119462A86001A2CD6 /* characterSword.png in Resources */,
 				30C5177B194586360031B99D /* Main.storyboard in Resources */,
 				30E1780E19462603001A2CD6 /* character1.png in Resources */,
+				3032532D1C35A8F500551910 /* Screen Shot 2559-01-01 at 12.20.40 AM.png in Resources */,
 				30C3669D1948AB0100541D7C /* whoosh4.mp3 in Resources */,
 				303E14A41949A50600A09BBF /* Hero.png in Resources */,
 				30CE3A16194871830075D46D /* BasicEnemyDie.png in Resources */,
