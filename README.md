@@ -1,6 +1,9 @@
 # COCPrototype
 
 Drag-to-slash-demon iOS game (prototype), serves as a small project to study SpriteKit
+
+![alt tag](https://raw.githubusercontent.com/aunnnn/COCPrototype/master/CocPrototype/Screen%20Shot%202559-01-01%20at%2012.20.40%20AM.png)
+
 * drag to move a samurai around the field
 * drag near demons to slash them, and to increase the magic gauge
 * but not too fast, beware the people, don't slash them!
