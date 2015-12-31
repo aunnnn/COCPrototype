@@ -12,9 +12,7 @@ Drag-to-slash-demon iOS game (prototype)
 * Core
  * GameScene.m - main game loop
  * GameStageFlow.txt - create game map (monster & people)
-  * 1 => monster
-  * -1 => people
-  * time,3.0 => wait 3s before dispatch next round
+   * "1" => monster, "-1" => people, "time,3.0" => wait 3s before dispatch next round
  * SoundManager.m - various sound service in game
  * MonsterManager.m - interpret GameStageFlow.txt to dispatch entity objects
   * COCStageFileReader.m - read the file
